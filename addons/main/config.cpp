@@ -10,7 +10,7 @@ class CfgPatches {
         requiredAddons[] = {
             "cba_main",
             "ace_arsenal",
-            "acre_sys_api"
+            "acre_api"
         };
         units[] = {};
         weapons[] = {};
