@@ -5,3 +5,11 @@ mainprefix = "z"
 
 [version]
 git_hash = 0
+
+[files]
+include = [
+    "LICENSE",
+    "/img/*.paa",
+    "/img/*.png",
+    "*.bikey",
+]

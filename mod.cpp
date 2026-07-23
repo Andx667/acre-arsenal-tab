@@ -11,7 +11,7 @@ tooltipOwned = "by Andx Arma Mods"; // Tool tip displayed when the mouse is left
 picture = "img\logo_ca.paa";
 
 actionName = "Website";
-action = "https://github.com/Andx667"; // Website URL, that can be accessed from the expansions menu
+action = "https://github.com/Andx667/acre-arsenal-tab/tree"; // Website URL, that can be accessed from the expansions menu
 
 overview = "Adds a new Tab to the ACE Arsenal right sight panel that contains all ACRE items.";
 overviewPicture = "img\icon_ca.paa";
