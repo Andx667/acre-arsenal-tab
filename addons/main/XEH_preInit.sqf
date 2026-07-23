@@ -11,7 +11,7 @@ ADDON = true;
 private _antenna = ["acre_sys_gsa"] call FUNC(getAllItems);
 private _radios = ([] call acre_api_fnc_getAllRadios) select 0;
 
-[
+GVAR(arsenalButton) = [
     _antenna + _radios,
     "ACRE",
     "a3\modules_f_curator\data\portraitradio_ca.paa"
