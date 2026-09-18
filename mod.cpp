@@ -14,6 +14,6 @@ actionName = "Website";
 action = "https://github.com/Andx667/acre-arsenal-tab/"; // Website URL, that can be accessed from the expansions menu
 
 overview = "Adds a new Tab to the ACE Arsenal right sight panel that contains all ACRE items.";
-overviewPicture = "img\icon_ca.paa";
+overviewPicture = "img\logo_ca.paa";
 
 logoSmall = "img\logo_small_ca.paa"; // Display in creative lists, next to the entities added by the mod
