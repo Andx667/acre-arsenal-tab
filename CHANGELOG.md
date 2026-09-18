@@ -9,9 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.4] - 2026-09-18
 
+### Fixed
+
+- Correct `mod.cpp`'s `overviewPicture`, which pointed at a `.paa` that didn't exist in the mod
+
 ### Changed
 
-- No functional changes — repository maintenance (CI checks, contribution templates, automated release notes)
+- Repository maintenance: CI checks, contribution templates, automated release notes
 
 ## [1.0.3] - 2026-07-29
 
