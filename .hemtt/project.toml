@@ -6,6 +6,10 @@ mainprefix = "z"
 [version]
 git_hash = 0
 
+[hemtt.publish]
+description = "workshop/steam_description.md"
+changelog = "CHANGELOG.md"
+
 [files]
 include = [
     "LICENSE",
