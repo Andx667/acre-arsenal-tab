@@ -13,7 +13,7 @@ changelog = "CHANGELOG.md"
 [files]
 include = [
     "LICENSE",
-    "/img/*.paa",
-    "/img/*.png",
+    "img/logo_ca.paa",
+    "img/icon_ca.paa",
     "*.bikey",
 ]
